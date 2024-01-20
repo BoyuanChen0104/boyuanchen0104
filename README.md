@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Casual Inference, unsupervised machine learning and big data tools**
 
-- 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition and won the finalist as ML modeler in my team](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/)
+- 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
 - 🤝 I’m looking for **2024 summer internship (data-related roles)**
 
