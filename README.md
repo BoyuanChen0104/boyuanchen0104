@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The USC National Big Data Health Science Student Case Competition](https://bigdata.sc.edu/events/student-case-competition/)
 
-- 🌱 I’m currently learning **Casual Inference, unsupervised machine learning and big data tools**, besides, I am also interested in **political economy, financial market and policy learning**.
+- 🌱 I’m currently learning **Casual Inference, unsupervised machine learning and big data tools**, besides, I am also interested in **Industrial Organization of healthcare and financial market, policy learning and political economy**.
 
 - 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
