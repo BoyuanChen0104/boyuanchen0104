@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boyuan Chen</h1>
+<h1 align="center">Hi, I'm Boyuan Chen</h1>
 <h3 align="center">A graduate student studying MSBA @ Questrom School of Business, Boston University</h3>
 
 - 🔭 I’m currently working on [The USC National Big Data Health Science Student Case Competition](https://bigdata.sc.edu/events/student-case-competition/)
