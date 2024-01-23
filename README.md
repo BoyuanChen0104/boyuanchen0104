@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **bychan@bu.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/boyuanchen/](https://www.linkedin.com/in/boyuanchen/)
+- 📄 Know about my experiences & connect with me: [https://www.linkedin.com/in/boyuanchen/](https://www.linkedin.com/in/boyuanchen/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
