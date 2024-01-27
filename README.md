@@ -7,7 +7,7 @@
 
 - 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
-- 🤝 I’m looking for **2024 summer internship (data-related roles)**
+- 🤝 I’m looking for **2024 summer internship (DA/DS/BI-related roles)**
 
 - 👨‍💻 My projects are available at [https://github.com/BoyuanChen0104](https://github.com/BoyuanChen0104)
 
