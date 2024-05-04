@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Boyuan Chen (陳博源)</h1>
 <h3 align="center">MSBA student @ Questrom School of Business, Boston University</h3>
 
-- 🔭 I’m currently working on [The USC National Big Data Health Science Student Case Competition](https://bigdata.sc.edu/events/student-case-competition/)
+- 🔭 I am an incoming data & analytics summer intern at Citizens Financial Group in Westwood.
 
-- 🌱 I’m currently learning **Causal Inference, unsupervised machine learning and big data tools**, besides, I am also interested in **industrial organization of healthcare and financial market, policy learning and political economy**.
+- 🌱 I’m currently learning **Deep Learning and big data tools**, besides, I am also interested in **industrial organization of healthcare and financial industry, policy learning and political economy**.
 
 - 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
-- 🤝 I’m looking for **2024 summer internship (DA/DS/BI-related roles)**
+- 🤝 I am interest in football (Chelsea Fan for 8 years), League of Legends and traveling.
 
 - 👨‍💻 My projects are available at [https://github.com/BoyuanChen0104](https://github.com/BoyuanChen0104)
 
-- 💬 Ask me about **Machine Learning, Casual Inference and Database Management**
+- 💬 Ask me about **Machine Learning, Casual Inference, Database Management and Topics Regarding Finance**.
 
 - 📫 How to reach me **bychan@bu.edu**
 
