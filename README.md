@@ -3,7 +3,7 @@
 
 - 🔭 I am an incoming data & analytics summer intern at Citizens Financial Group in Westwood.
 
-- 🌱 I’m currently learning **Deep Learning and big data tools**, besides, I am also interested in **industrial organization of healthcare and financial industry, policy learning and political economy**.
+- 🌱 I’m currently learning **Deep Learning and big data tools**, besides, I am also interested in **industrial organization of healthcare and financial industry, policy learning and political economy. I am serving as a research assistant @ Global Development Policy Center at Boston University.**
 
 - 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
