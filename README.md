@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Boyuan Chen (陳博源)</h1>
 <h3 align="center">MSBA student @ Questrom School of Business, Boston University</h3>
 
-- 🔭 I am a data & analytics summer intern at Citizens Financial Group in Westwood.
+- 🔭 I am a data & analytics summer intern at Citizens Financial Group in Westwood, MA.
 
-- 🌱 I’m currently learning **deep learning and big data tools**, besides, I am also interested in **industrial organization of healthcare and financial industry, policy learning and political economy. I am serving as a research assistant @ Global Development Policy Center at Boston University.**
+- 🌱 I’m currently learning **deep learning and MLOps**, besides, I am also interested in **IO, stats, econometrics and political economy. I am serving as a research assistant @ Global Development Policy Center at Boston University.**
 
 - 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 My projects are available at [https://github.com/BoyuanChen0104](https://github.com/BoyuanChen0104)
 
-- 💬 Ask me about **Machine Learning, Causal Inference, Database Management and Topics Regarding Finance**.
+- 💬 Ask me about **Machine Learning, Causal Inference, MLOps and Topics Regarding Finance**.
 
 - 📫 How to reach me **bychan@bu.edu**
 
