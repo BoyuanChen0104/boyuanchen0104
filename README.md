@@ -3,7 +3,7 @@
 
 - 🔭 I am a graduate data science intern at Citizens Financial Group in Westwood, MA.
 
-- 🌱 I’m currently learning **deep learning and MLOps**, besides, I am also interested in **IO, stats, econometrics and political economy. I am serving as a research assistant @ Global Development Policy Center at Boston University.**
+- 🌱 I’m currently learning **deep learning, MLOps and LLMOps**, besides, I am also interested in **IO, stats, econometrics and political economy. I am serving as a research assistant @ Global Development Policy Center at Boston University.**
 
 - 🏅️ Before, I participated in [Humana-Mays Healthcare Analytics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7123843068855775232/) and won the finalist as ML modeler in my team
 
