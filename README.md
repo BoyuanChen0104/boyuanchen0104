@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Boyuan Chen (陳博源)</h1>
-<h3 align="center">MSBA student @ Questrom School of Business, Boston University</h3>
-
-- 🔭 I am a graduate data science intern at Citizens Financial Group in Westwood, MA.
+<h3 align="center">Data Scientist @ Citizens Financial Group</h3>
 
 - 🌱 I’m currently learning **deep learning, MLOps and LLMOps**, besides, I am also interested in **IO, stats, econometrics and political economy. I am serving as a research assistant @ Global Development Policy Center at Boston University.**
 
